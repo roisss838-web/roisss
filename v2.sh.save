@@ -1,0 +1,3 @@
+docker run --rm -ti htrtech/zphisher
+
+
